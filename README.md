@@ -13,7 +13,7 @@ Passionate about building real-world software solutions with Java and exploring 
 </p>
 
 ## 👩‍💻 About Me
-<img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNtODhxYmdmNXE0OWhhZjF5MzRzMjZ5YWJlY2RlOWJscDR1dmRwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNtODhxYmdmNXE0OWhhZjF5MzRzMjZ5YWJlY2RlOWJscDR1dmRwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🎓 Final-year Information Technology Student
 - 🌱 I’m currently learning **AWS, Docker, Kubernetes, Selenium, and Terraform**
