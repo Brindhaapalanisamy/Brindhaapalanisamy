@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Brindhaa Palanisamy</h1>
 
 <h3 align="center">
-Aspiring Cloud Engineer | Java Developer | QA Automation Learner
+Aspiring Cloud Engineer | Java Developer | QA Automation
 </h3>
 
 <p align="center">
